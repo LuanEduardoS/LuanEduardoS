@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luan Eduardo 🚀
+### Olá! Eu me chamo Luan Eduardo 🚀
 
 [![Blog](https://img.shields.io/website?label=&style=for-the-badge&url=https://sujeitoprogramador.com/)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
